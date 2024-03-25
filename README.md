@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Education:</h2>
 
-- <b>Ph.D., Economics | Indiana University at Indianapolis (February 2020)</b>  					       
-- <b>M.A., Economics | Vanderbilt University at Nashville (May 2014)</b>  
+- <b>Ph.D., Economics | Indiana University at Indianapolis (February 2020)</b>					       
+- <b>M.A., Economics | Vanderbilt University at Nashville (May 2014)</b>
 
 <h2>👨‍💻 Work Experience:</h2>
 

@@ -18,14 +18,14 @@
 
 -	<b>Completed 35 courses in the "Data Scientist in Python" career path under the following learning paths:</b>
     -	<b>Python Introduction</b>
-  -	<b>Data Analysis and Visualization</b>
-  -	<b>Data Cleaning</b>
-  -	<b>The Command Line</b>
-  -	<b>Working with Data Sources (SQL)</b>
-  -	<b>Probability and Statistics</b>
-  -	<b>Machine Learning In Python</b>
-  -	<b>Deep Learning in Python, and</b>
-  -	<b>Advanced Topics in Data Science (Git,Version Control, Spark, and Map-Reduce)</b>
+    -	<b>Data Analysis and Visualization</b>
+    -	<b>Data Cleaning</b>
+    -	<b>The Command Line</b>
+    -	<b>Working with Data Sources (SQL)</b>
+    -	<b>Probability and Statistics</b>
+    -	<b>Machine Learning In Python</b>
+    -	<b>Deep Learning in Python, and</b>
+    -	<b>Advanced Topics in Data Science (Git,Version Control, Spark, and Map-Reduce)</b>
 - <b>Used Python to develop and execute an analytic vision to solve business and/or policy relevant problems using publicly available data and simulated data</b>.
 
 ### <b>[Statistical Analyst @ Indiana University Lilly Family School of Philanthropy (_August 2016 - December 2016_)](https://philanthropy.indianapolis.iu.edu/index.html)</b>

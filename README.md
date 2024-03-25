@@ -1,4 +1,4 @@
-<h1>Hi, I'm Wondi! <br/> <a href="https://www.linkedin.com/in/wondimanalew/">Economist, Data Scientist, and Researcher</a>
+<h1>Hi, I'm Wondi! <br/> <a href="https://www.linkedin.com/in/wondimanalew/">Economist, Data Scientist, and Researcher</a></h1>
 
 <h2>👨‍💻 Education:</h2>
 

@@ -1,8 +1,9 @@
 <h1>Hi, I'm Wondi! <br/> <a href="https://www.linkedin.com/in/wondimanalew/">Economist, Data Scientist, and Researcher</a>
 
 <h2>👨‍💻 Education:</h2>
-- <b>Ph.D., Economics | Indiana University at Indianapolis (_February 2020_)								       		
-- <b>M.A., Economics	| Vanderbilt University at Nashville (_May 2014_)	 			
+
+- <b>Ph.D., Economics | Indiana University at Indianapolis (February 2020)</b>							       		
+- <b>M.A., Economics	| Vanderbilt University at Nashville (May 2014)</b>			
 
 <h2>👨‍💻 Work Experience:</h2>
 

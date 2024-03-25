@@ -66,7 +66,8 @@
    
 [9. Mekonen, S., Samuel, W., & Ambelu, A. (2014). Importance of labelling and patient knowledge to ensure proper care during drug dispensing: A case study from a tertiary hospital in Ethiopia. Open Journal of Preventive Medicine, 2014.](https://www.scirp.org/html/1-1340202_41723.htm)
 
-<h2>👨‍💻 Talks and Lectures:</h2>
+<h2>![image](https://github.com/WondiSM/Wondi/assets/13004313/14658ecb-2cc6-42d6-aace-32cf8299d58d) 
+ Talks and Lectures:</h2>
 
 1. Health Systems: An undergraduate course that studies health systems in the United States
 

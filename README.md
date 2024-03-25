@@ -14,6 +14,20 @@
   - <b>Spearheaded data analysis and research methodology for a pivotal study, resulting in a substantial increase in funding for a foundation's advocacy efforts—from $1.3 million to $3 million—by successfully influencing a state Medicaid agency</b>.
   - <b>Prepared manuscripts and evaluation reports for publication and dissemination</b>.
 
+### <b>Data Science Bootcamp (Independent Study) @ Dataquest.io (_May 2023 - March 2024_)</b>
+
+-	<b>Completed 35 courses in the "Data Scientist in Python" career path under the following learning paths:Python Introduction, Data Analysis and Visualization, Data Cleaning, The Command Line, Working with Data Sources (SQL),Probability and Statistics, Machine Learning In Python, Deep Learning in Python, and Advanced Topics in Data Science (Git,Version Control, Spark, and Map-Reduce)</b>
+ 	
+- <b>Used Python to develop and execute an analytic vision to solve business and/or policy relevant problems using publicly available data and simulated data</b>.
+
+### <b>Statistical Analyst @ Indiana University Lilly Family School of Philanthropy (_August 2016 - December 2016_)</b>
+
+- <b>Cleaned large data and prepared analysis samples</b>.
+- <b>Conducted statistical analysis, including selecting analysis model, running regressions, reporting result tables/graphs, and interpreting the results</b>.
+- <b>Assisted in the review of academic research papers and writing manuscripts</b>. 
+
+
+
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>

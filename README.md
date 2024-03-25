@@ -26,9 +26,20 @@
 - <b>Conducted statistical analysis, including selecting analysis model, running regressions, reporting result tables/graphs, and interpreting the results</b>.
 - <b>Assisted in the review of academic research papers and writing manuscripts</b>. 
 
-
-
 <h2>👨‍💻 Data Science Projects:</h2>
+
+#### <b>[Project 1: Predicting Reciept of Screening for Depression After Child Birth (A Machine Learning Classification Project)](https://www.etsu.edu/cph/hsmp/faculty-staff/manalew_w.php)</b> 
+
+- <b>Used publicly available survey data to predict the receipt of screening for depression after child birht among postpartum women in the US</b>. 
+
+#### <b>[Project 2: Airbnb reviews and health and wellness related amenities(A Machine Learning Regression Project)](https://www.etsu.edu/cph/hsmp/faculty-staff/manalew_w.php)</b>
+
+![](Airbnb.png) 
+
+#### <b>[Project 3: Sentiment Analysis (A Machine Learning Natural Language Processing (NLP) Project)](https://www.etsu.edu/cph/hsmp/faculty-staff/manalew_w.php)</b>
+
+#### <b>[Project 4: Using Count Data Models for Revenue Forcasting when the data is under-disperesed data:](https://www.etsu.edu/cph/hsmp/faculty-staff/manalew_w.php)</b>
+
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)

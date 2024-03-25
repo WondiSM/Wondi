@@ -10,12 +10,11 @@
 
 - <b>Reasearch Assistant Professor (Research Associate the first 2 years) @ East Tennessee State University (_July 2019 - Present_)**</b>
   - <b>Managed and analysed large datasets including the Medicaid claims data and other survey data</b>.
+    - <b>Led the development and implementation of multiple impact evaluation projects for assessing the effectiveness of a privately funded contraceptive access initiative in   South Carolina. Evaluated the impact on the accessibility of reproductive healthcare products, contributing valuable insights to enhance program outcomes</b>.
   
-- <b>Led the development and implementation of multiple impact evaluation projects for assessing the effectiveness of a privately funded contraceptive access initiative in South Carolina. Evaluated the impact on the accessibility of reproductive healthcare products, contributing valuable insights to enhance program outcomes</b>.
+  - <b>Spearheaded data analysis and research methodology for a pivotal study, resulting in a substantial increase in funding for a foundation's advocacy efforts—from $1.3 million to $3 million—by successfully influencing a state Medicaid agency</b>.
   
-- <b>Spearheaded data analysis and research methodology for a pivotal study, resulting in a substantial increase in funding for a foundation's advocacy efforts—from $1.3 million to $3 million—by successfully influencing a state Medicaid agency</b>.
-  
-- <b>Prepared manuscripts and evaluation reports for publication and dissemination</b>.
+  - <b>Prepared manuscripts and evaluation reports for publication and dissemination</b>.
 
 <h2>👨‍💻 Data Science Projects:</h2>
 

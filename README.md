@@ -17,7 +17,7 @@
 ### <b>[Data Science Bootcamp (Independent Study) @ Dataquest.io (_May 2023 - March 2024_)](https://www.dataquest.io/path/data-scientist/)</b>
 
 -	<b>Completed 35 courses in the "Data Scientist in Python" career path under the following learning paths:</b>
-  -	<b>Python Introduction</b>
+    -	<b>Python Introduction</b>
   -	<b>Data Analysis and Visualization</b>
   -	<b>Data Cleaning</b>
   -	<b>The Command Line</b>

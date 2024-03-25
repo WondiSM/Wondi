@@ -20,7 +20,7 @@
  	
 - <b>Used Python to develop and execute an analytic vision to solve business and/or policy relevant problems using publicly available data and simulated data</b>.
 
-### <b>Statistical Analyst @ Indiana University Lilly Family School of Philanthropy (_August 2016 - December 2016_)</b>
+### <b>Statistical Analyst @ [Indiana University Lilly Family School of Philanthropy](https://philanthropy.indianapolis.iu.edu/index.html) (_August 2016 - December 2016_)</b>
 
 - <b>Cleaned large data and prepared analysis samples</b>.
 - <b>Conducted statistical analysis, including selecting analysis model, running regressions, reporting result tables/graphs, and interpreting the results</b>.
